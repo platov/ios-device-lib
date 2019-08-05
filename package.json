@@ -4,16 +4,8 @@
   "description": "",
   "types": "./typings/ios-device-lib.d.ts",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/telerik/ios-device-lib.git"
-  },
   "author": "",
   "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/telerik/ios-device-lib/issues"
-  },
-  "homepage": "https://github.com/telerik/ios-device-lib#readme",
   "dependencies": {
     "bufferpack": "0.0.6",
     "node-uuid": "1.4.7"
